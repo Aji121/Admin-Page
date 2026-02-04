@@ -3,7 +3,7 @@
 Analisis mengenai performa penjualan ShareTech untuk mengidentifikasi pendorong utama pendapatan, efisiensi operasional, dan perilaku pengguna lintas platform. Proyek ini mendemonstrasikan proses end-to-end data analisis, mulai dari pembersihan data mentah hingga penyajian wawasan bisnis yang dapat ditindaklanjuti.
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/e53ec41c-8900-4258-93fb-8984c670630b"
+    src="https://raw.githubusercontent.com/Aji121/Admin-Page/main/ST_Dash.png"
     width="800"
   />
 </p>
