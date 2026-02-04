@@ -1,15 +1,16 @@
 <h1 align="center">ShareTech Sales Performance Analysis (2019-2021)</h1>
 
-Analisis mengenai performa penjualan ShareTech untuk mengidentifikasi pendorong utama pendapatan, efisiensi operasional, dan perilaku pengguna lintas platform. Proyek ini mendemonstrasikan proses end-to-end data analisis, mulai dari pembersihan data mentah hingga penyajian wawasan bisnis yang dapat ditindaklanjuti.
+Analisis mengenai performa penjualan ShareTech untuk mengidentifikasi pendorong utama pendapatan, efisiensi operasional, dan perilaku pengguna lintas platform. **[Dasboard Tableau](https://public.tableau.com/app/profile/tirto.aji.nugroho/viz/ShareTechDashboard/Dashboard1?publish=yes)**.
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Aji121/Admin-Page/main/Dashboard 1.png"
     width="800"
   />
 </p>
+
 ## North Star Metrics & Dimensions
 
-* **Total Revenue ($):** Akumulasi pendapatan kotor sebesar $11.02 Juta sebagai indikator utama skala bisnis selama periode 2019-2021.
+* **Total Revenue ($):** Akumulasi pendapatan sebesar $11.02 Juta sebagai indikator utama skala bisnis selama periode 2019-2021.
 
 * **Monthly Sales Momentum:** Dimensi waktu bulanan untuk mengidentifikasi pola musiman, tren pertumbuhan, dan periode koreksi pasar.
 
@@ -20,10 +21,15 @@ Analisis mengenai performa penjualan ShareTech untuk mengidentifikasi pendorong 
 ## Summary of Insights
 
 ### Sales Trend
-Lonjakan Pertumbuhan **2020** dan Koreksi Pasar **2021** Selama periode **2020**, ShareTech mengalami fase pertumbuhan eksponensial di mana pendapatan melonjak lebih dari **200%**, mencapai puncaknya pada Desember **2020** dengan nilai **$891,567**. Keberhasilan ini didorong secara masif oleh dominasi produk **32 in Gaming Ben-Z Monitor** dan **Nintendo Switch** yang menyumbang lebih dari **60% total pendapatan**. Tren ini menunjukkan bahwa ShareTech berhasil memaksimalkan momentum pasar perangkat hiburan rumah selama pandemi.
+
+
+Secara keseluruhan, ShareTech mencatat pertumbuhan tahunan yang sangat signifikan dari 2019 ke 2020, dengan peningkatan pendapatan hingga **200%** (dari sekitar **$3.7M** menjadi **$7.2M**). Puncak performa terjadi pada **Desember 2020**, yang didorong oleh lonjakan penjualan produk unggulan **32 in Gaming Ben-Z Monitor** dan **Nintendo Switch**.
+
+Memasuki kuartal pertama **2021**, tren tersebut berbalik arah. Terjadi penurunan pendapatan yang tajam dan serentak di seluruh wilayah. Kondisi ini mengindikasikan adanya **kejenuhan pasar pasca-libur panjang** serta risiko **ketergantungan yang terlalu tinggi pada siklus hidup produk unggulan**, sehingga pendapatan perusahaan kurang memiliki penyangga ketika permintaan terhadap produk utama melambat.
+
 
 ### Marketing
-Di sisi operasional menunjukkan ketimpangan saluran pemasaran: platform **Web** dan trafik **Direct** tetap menjadi tulang punggung dengan kontribusi hampir **80% pendapatan**. Sementara itu, saluran berbayar seperti **Social Media** dan **Affiliate** gagal menunjukkan pertumbuhan yang sebanding, menandakan adanya ketidakefisienan dalam strategi akuisisi pelanggan berbayar selama dua tahun terakhir.
+Di sisi operasional menunjukkan ketimpangan saluran pemasaran, trafik **Direct** tetap menjadi tulang punggung dengan kontribusi hampir **80% pendapatan**. Sementara itu, saluran berbayar seperti **Social Media** dan **Affiliate** gagal menunjukkan pertumbuhan yang sebanding, menandakan adanya ketidakefisienan dalam strategi akuisisi pelanggan berbayar selama dua tahun terakhir.
 
 ### Platform
 Data menunjukkan persaingan yang sangat ketat antara kedua platform, namun **Mobile App** berhasil unggul sebagai pilar utama dalam volume transaksi harian. Dominasi tipis platform **App** ini menunjukkan bahwa strategi mobile-first ShareTech berhasil, di mana pelanggan merasa nyaman bertransaksi melalui aplikasi. Di sisi lain, platform **Web** tetap stabil mendukung transaksi produk-produk premium (High-Ticket), menciptakan ekosistem penjualan yang seimbang di kedua perangkat.
